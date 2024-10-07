@@ -1,4 +1,5 @@
 import { ProblemInformation } from "@/components/information/problem-information";
+import { UserJourney } from "@/components/information/user-journey";
 import { UserPersonas } from "@/components/information/user-personas";
 import { Navbar } from "@/components/navbar/navbar";
 
@@ -20,6 +21,7 @@ export default function Home() {
       <main className="mt-6">
         <ProblemInformation />
         <UserPersonas />
+        <UserJourney />
       </main>
     </>
   );
