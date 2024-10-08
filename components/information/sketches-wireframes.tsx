@@ -15,9 +15,9 @@ export function SketchesAndWireframes() {
   ];
 
   return (
-    <section id="sketches-and-wireframes">
+    <section id="sketches-&-wireframes">
       <div className="text-center">
-        <h3 className="text-2xl font-semibold">Sketches and Wireframes</h3>
+        <h3 className="text-2xl font-semibold">Sketches & Wireframes</h3>
         <hr className="border-primary w-2/12 mx-auto mt-1" />
       </div>
       <div className="flex gap-10 justify-center">

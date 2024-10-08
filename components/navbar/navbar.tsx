@@ -9,7 +9,7 @@ export function Navbar() {
           "The problem",
           "Personas",
           "User Journey",
-          "Sketches & Wireframe",
+          "Sketches & Wireframes",
           "Style",
           "App prototype",
         ].map((item, index) => (
