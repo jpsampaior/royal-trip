@@ -19,7 +19,7 @@ export default function Home() {
         </div>
         <Navbar />
       </header>
-      <main className="mt-6">
+      <main className="mt-6 space-y-8">
         <ProblemInformation />
         <UserPersonas />
         <UserJourney />

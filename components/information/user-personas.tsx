@@ -18,7 +18,7 @@ export function UserPersonas() {
   ];
 
   return (
-    <section className="px-8 rounded-lg shadow-lg my-8 space-y-4" id="personas">
+    <section className="px-8 rounded-lg shadow-lg space-y-4" id="personas">
       <div>
         <h3 className="text-2xl text-center font-semibold">Personas</h3>
         <hr className="border-primary w-24 mx-auto mt-1" />

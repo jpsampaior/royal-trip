@@ -28,7 +28,7 @@ export function SketchesAndWireframes() {
               src={page.image}
               alt={page.title}
               className="rounded-lg w-[15vw] h-auto object-cover"
-              style={{ aspectRatio: "9/16" }} // Mantém a proporção 16:9
+              style={{ aspectRatio: "9/16" }}
             />
           </div>
         ))}
