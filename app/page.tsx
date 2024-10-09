@@ -1,5 +1,6 @@
 import { ProblemInformation } from "@/components/information/problem-information";
 import { SketchesAndWireframes } from "@/components/information/sketches-wireframes";
+import StyleInformation from "@/components/information/style-information";
 import { UserJourney } from "@/components/information/user-journey";
 import { UserPersonas } from "@/components/information/user-personas";
 import { Navbar } from "@/components/navbar/navbar";
@@ -24,6 +25,7 @@ export default function Home() {
         <UserPersonas />
         <UserJourney />
         <SketchesAndWireframes />
+        <StyleInformation />
       </main>
     </>
   );
