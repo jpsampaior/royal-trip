@@ -12,6 +12,8 @@ export function Navbar() {
           "Sketches & Wireframes",
           "Style",
           "App prototype",
+          "User research",
+          "Bibliography",
         ].map((item, index) => (
           <li key={index}>
             <Link href={`#${item.replace(/\s+/g, "-").toLowerCase()}`}>

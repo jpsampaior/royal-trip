@@ -4,6 +4,7 @@ import { SketchesAndWireframes } from "@/components/information/sketches-wirefra
 import StyleInformation from "@/components/information/style-information";
 import { UserJourney } from "@/components/information/user-journey";
 import { UserPersonas } from "@/components/information/user-personas";
+import UserResearch from "@/components/information/user-research";
 import { Navbar } from "@/components/navbar/navbar";
 
 export default function Home() {
@@ -28,6 +29,7 @@ export default function Home() {
         <SketchesAndWireframes />
         <StyleInformation />
         <AppImages />
+        <UserResearch />
       </main>
     </>
   );
