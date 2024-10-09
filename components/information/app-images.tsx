@@ -36,7 +36,10 @@ export function AppImages() {
             </div>
           ))}
         </div>
-        <div className="text-center">
+        <div className="text-center space-y-2">
+          <h5 className="text-lg font-medium mt-4">
+            Interested? There is more!
+          </h5>
           <Button>
             <a
               href="https://www.figma.com/proto/kqNsumTYBQpk6BY8tJxkmZ/Royal-Trip?page-id=0%3A1&node-id=43-447&node-type=FRAME&viewport=-2623%2C1250%2C4.09&t=veMzmIr4Aa7pCtPF-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=43%3A447&share=1"

@@ -32,9 +32,15 @@ export default function Bibliography() {
 
   return (
     <section className="space-y-4 px-8" id="bibliography">
-      <div>
-        <h3 className="text-2xl text-center font-semibold">Bibliography</h3>
-        <hr className="border-primary w-1/12 mx-auto mt-1" />
+      <div className="space-y-2">
+        <div>
+          <h3 className="text-2xl text-center font-semibold">Bibliography</h3>
+          <hr className="border-primary w-1/12 mx-auto mt-1" />
+        </div>
+        <p className="text-center text-gray-500 text-sm">
+          Please note that the links are embedded within the text. Click on the
+          text to view the referenced content.
+        </p>
       </div>
       <ul className="bg-dark-400 rounded-md">
         {references.map((reference, index) => (
