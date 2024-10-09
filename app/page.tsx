@@ -1,3 +1,4 @@
+import Footer from "@/components/footer/footer";
 import { AppImages } from "@/components/information/app-images";
 import Bibliography from "@/components/information/bibliography";
 import { ProblemInformation } from "@/components/information/problem-information";
@@ -23,7 +24,7 @@ export default function Home() {
         </div>
         <Navbar />
       </header>
-      <main className="mt-6 space-y-8">
+      <main className="space-y-8">
         <ProblemInformation />
         <UserPersonas />
         <UserJourney />
@@ -33,6 +34,7 @@ export default function Home() {
         <UserResearch />
         <Bibliography />
       </main>
+      <Footer />
     </>
   );
 }
