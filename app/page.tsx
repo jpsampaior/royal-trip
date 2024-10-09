@@ -1,4 +1,5 @@
 import { AppImages } from "@/components/information/app-images";
+import Bibliography from "@/components/information/bibliography";
 import { ProblemInformation } from "@/components/information/problem-information";
 import { SketchesAndWireframes } from "@/components/information/sketches-wireframes";
 import StyleInformation from "@/components/information/style-information";
@@ -30,6 +31,7 @@ export default function Home() {
         <StyleInformation />
         <AppImages />
         <UserResearch />
+        <Bibliography />
       </main>
     </>
   );

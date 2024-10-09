@@ -1,6 +1,6 @@
 export default function UserResearch() {
   return (
-    <section className="space-y-7" id="the-problem">
+    <section className="space-y-7" id="user-research">
       <div>
         <h3 className="text-2xl text-center font-semibold">User Research</h3>
         <hr className="border-primary w-1/12 mx-auto mt-1" />
