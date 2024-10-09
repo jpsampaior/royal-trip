@@ -1,19 +1,19 @@
 export default function Bibliography() {
   const references = [
     {
-      title: "Travel Apps discussion forum",
+      title: "Travel Apps discussion forum (Used in user personas)",
       link: "https://www.tripadvisor.ca/ShowTopic-g1-i49577-k13957653-Travel_apps-The_Layover_Lounge.html",
     },
     {
-      title: "Immigration Forum",
+      title: "Immigration Forum (Used in user personas)",
       link: "https://www.tripadvisor.ca/ShowTopic-g147262-i230-k14213794-Immigration_forum-Barbados.html#115996361",
     },
     {
-      title: "Travel Documents Forum",
+      title: "Travel Documents Forum (Used in user personas)",
       link: "https://www.tripadvisor.ca/ShowTopic-g293991-i4477-k14484822-Travel_document-Saudi_Arabia.html#118395287",
     },
     {
-      title: "Safety Concerns Regarding Certain Areas",
+      title: "Safety Concerns Regarding Certain Areas (Used in user personas)",
       link: "https://www.tripadvisor.ca/ShowTopic-g294232-i525-k14491750-Is_it_safe_to_stay_around_kogoshima_Sakurajima_area-Japan.html#118455415",
     },
     {
