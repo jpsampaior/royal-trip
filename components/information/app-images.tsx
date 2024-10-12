@@ -18,7 +18,7 @@ export function AppImages() {
   ];
 
   return (
-    <section id="sketches-&-wireframes">
+    <section id="app-prototype">
       <div className="text-center">
         <h3 className="text-2xl font-semibold">App Prototype</h3>
         <hr className="border-primary w-1/12 mx-auto mt-1" />
