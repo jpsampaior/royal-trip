@@ -5,6 +5,7 @@ import ProtHomeDetailsImage from "@/public/prot-home-details.png";
 import ProtLocationDetailsImage from "@/public/prot-location-details.png";
 import ProtLocationCardsImage from "@/public/prot-location-flights.png";
 
+
 import Image from "next/image";
 import { Button } from "../ui/button";
 
